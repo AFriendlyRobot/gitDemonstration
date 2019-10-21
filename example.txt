@@ -3,4 +3,4 @@ It just has some text in it.
 
 And another commit with a new message.
 
-A secret: Hello, world!
+A secret: DELETED
