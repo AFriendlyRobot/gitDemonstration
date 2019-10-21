@@ -1,2 +1,5 @@
 This is an example text file!
 It just has some text in it.
+
+And another commit with a new message.
+
